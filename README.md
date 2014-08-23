@@ -1,6 +1,6 @@
 # Elasticsearch Query Visualizer
 
-This page is intended to help debug large complex generated Elasticsearch queries. Could be expanded in the future to be more user friendly.
+This page is intended to help visually debug large complex generated Elasticsearch queries. Could be expanded in the future to be more user friendly. Its actually more of a generic JSON visualizer right now.
 
 # Demo
 [http://henszey.github.io/elasticsearch-query-visualizer/](http://henszey.github.io/elasticsearch-query-visualizer/)
